@@ -1,0 +1,61 @@
+ h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(133, 83, 89);
+    opacity: 1;
+    text-align: center;
+ }
+
+ h3{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    text-decoration: underline;
+    color: rgb(133, 83, 89);
+    opacity: 1; 
+    text-align: center; 
+ }
+
+ .about{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    text-decoration: underline;
+    color: rgb(133, 83, 89);
+    opacity: 1;
+    text-align: center;
+
+ }
+
+ #name, #name1, #name2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    text-decoration: underline;
+    color: rgb(133, 83, 89);
+    opacity: 1;
+ }
+
+
+  li:hover{
+    color:#7A133D;
+  }
+
+  
+  th{
+   background-color: rgba(198, 113, 68, 0.628);
+  }
+
+  td{
+   background-color: rgba(0, 203, 98, 0.628);
+  }
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  body{
+   background-color: beige;
+  }
+
